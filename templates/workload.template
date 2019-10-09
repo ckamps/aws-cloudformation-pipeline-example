@@ -10,4 +10,4 @@ Resources:
           - ServerSideEncryptionByDefault:
               SSEAlgorithm: aws:kms
               KMSMasterKeyID: alias/aws/s3
-     LoggingConfiguration: {}
+      LoggingConfiguration: {}
